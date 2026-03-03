@@ -180,6 +180,8 @@ button{
   align-items: center;
   gap: 16px;
 }
+
+
 .description{
   flex: 1;
 }
