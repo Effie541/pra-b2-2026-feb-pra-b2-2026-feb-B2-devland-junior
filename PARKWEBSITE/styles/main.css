@@ -174,9 +174,12 @@ button{
   height: 64px;
 }
 
-.sidy-by-side{
+.side-by-side{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
 }
-
 .description{
   flex: 1;
 }
